@@ -1,0 +1,1004 @@
+matched,replaced,Levenshtein_ratio,partial_match
+insulin,insulin degludec,100.0,True
+insulin,insulin humulin r,100.0,True
+insulin,lantus insulin,100.0,True
+insulin,insulin nph human isophane,100.0,True
+insulin,insulin regimen,100.0,True
+insulin,insulin novolin n,100.0,True
+insulin,insulin regular humulin r,100.0,True
+insulin,insulin nph,100.0,True
+insulin,insulin glargine and lispro,100.0,True
+insulin,insulin lispro,100.0,True
+insulin,insulin novologlantus,100.0,True
+insulin,regular insulin  human,100.0,True
+insulin,insulin  aspart  human,100.0,True
+insulin,insulin reg,100.0,True
+fentanyl,fentanyl injection,100.0,True
+insulin,insulin regular,100.0,True
+insulin,insulin novolog levimir,100.0,True
+insulin,insulin aspartate,100.0,True
+insulin,insulin  zinc  human,100.0,True
+insulin,insulin detemir,100.0,True
+insulin,insulin isophane,100.0,True
+insulin,nph insulin,100.0,True
+insulin,novolog insulin,100.0,True
+insulin,insulin lantus,100.0,True
+insulin,insulin pen needle,100.0,True
+insulin,insulin novolin r,100.0,True
+insulin,insulin humulin,100.0,True
+insulin,insulin aspart,100.0,True
+insulin,bacillus coagulant insulin,100.0,True
+insulin,reg insulin,100.0,True
+insulin,novolin insulin,100.0,True
+insulin,humalog insulin,100.0,True
+insulin,insulin glargine,100.0,True
+insulin,insulin humalog,100.0,True
+insulin,insulin novolin,100.0,True
+insulin,nph insulin  human,100.0,True
+insulin,insulin novolog,100.0,True
+insulin,insulin regular human,100.0,True
+drospirenone  ethinyl estradiol,drospirenone ethinyl estradiol,98.36065573770492,False
+desogestrel  ethinyl estradiol,desogestrel ethinyl estradiol,98.30508474576271,False
+sulfamethoxazole  trimethoprim,sulfamethoxazole trimethoprim,98.30508474576271,False
+dextromethorphan  guaifenesin,dextromethorphan guaifenesin,98.24561403508771,False
+calcium carbonate  vitamin d,calcium carbonate vitamin d,98.18181818181819,False
+ciprofloxacin  dexamethasone,ciprofloxacin dexamethasone,98.18181818181819,False
+loratadine  pseudoephedrine,loratadine pseudoephedrine,98.11320754716981,False
+beclomethasone dipropionate,beclometasone dipropionate,98.11320754716981,False
+hydroxychloroquine sulfate,hydroxychlorouine sulfate,98.0392156862745,False
+hydrocortisone  pramoxine,hydrocortisone pramoxine,97.95918367346938,False
+polymyxin b  trimethoprim,polymyxin b trimethoprim,97.95918367346938,False
+triamcinolone acetonide,triamcinolone acetonidec,97.87234042553192,False
+triamcinolone acetonide,triamcinolone aceteonide,97.87234042553192,False
+piperacillin  tazobactam,piperacillin tazobactam,97.87234042553192,False
+amoxicillin  clavulanate,amoxicillin clavulanate,97.87234042553192,False
+atenolol  chlorthalidone,atenolol chlorthalidone,97.87234042553192,False
+acetaminophen  caffeine,acetaminophen caffeine,97.77777777777777,False
+magaldrate  simethicone,magaldrate simethicone,97.77777777777777,False
+penicillin v potassium,penicillin v postassium,97.77777777777777,False
+triamcinolone acetonide,trimcinolone acetonide,97.77777777777777,False
+bacitracin  polymyxin b,bacitracin polymyxin b,97.77777777777777,False
+buprenorphine  naloxone,buprenorphine naloxone,97.77777777777777,False
+nystatin  triamcinolone,nystatin triamcinolone,97.77777777777777,False
+fluticasone  salmeterol,fluticasone salmeterol,97.77777777777777,False
+clobetasol propionate,clobetasol proprionate,97.67441860465115,False
+acetaminophen  codeine,acetaminophen codeine,97.67441860465115,False
+lamivudine  zidovudine,lamivudine zidovudine,97.67441860465115,False
+budesonide  formoterol,budesonide formoterol,97.67441860465115,False
+rhod immune globulin,rho d immune globulin,97.5609756097561,False
+lidocaine  prilocaine,lidocaine prilocaine,97.5609756097561,False
+lidocaine  tetracaine,lidocaine tetracaine,97.5609756097561,False
+atovaquone  proguanil,atovaquone proguanil,97.5609756097561,False
+lopinavir  ritonavir,lopinavir ritonavir,97.43589743589743,False
+docosahexaenoic acid,docosahexanoic acid,97.43589743589743,False
+codeine  guaifenesin,codeine guaifenesin,97.43589743589743,False
+glyburide  metformin,glyburide metformin,97.43589743589743,False
+hydroxyprogesterone,hydroxyprogresterone,97.43589743589743,False
+evening primrose oil,evening primose oil,97.43589743589743,False
+rhod immune globulin,rho immune globulin,97.43589743589743,False
+medroxyprogesterone,medroxyprogresterone,97.43589743589743,False
+doxylamine succinate,doxyamine succinate,97.43589743589743,False
+sadenosylmethionine,s adenosylmethionine,97.43589743589743,False
+polyethylene glycols,polyethylene glycol,97.43589743589743,False
+medroxyprogesterone,edroxyprogesterone,97.2972972972973,False
+hydrochlorothiazide,hydrochlorotiazide,97.2972972972973,False
+medroxyprogesterone,medroxyprogestrone,97.2972972972973,False
+hydroxychloroquine,hydroxycholoroquine,97.2972972972973,False
+medroxyprogesterone,medroxprogesterone,97.2972972972973,False
+hydroxyprogesterone,hydroxprogesterone,97.2972972972973,False
+potassium chloride,potassim chloride,97.14285714285714,False
+methylprednisolone,mthylprednisolone,97.14285714285714,False
+methylprednisolone,methylprenisolone,97.14285714285714,False
+insulin glargine,insulin grlargine,96.96969696969697,False
+interferon alfab,interferon alfa b,96.96969696969697,False
+insulin glargine,insuline glargine,96.96969696969697,False
+sodium phosphate,sodium phosphates,96.96969696969697,False
+prenatal vitamin,prenatal vitamins,96.96969696969697,False
+interferon betaa,interferon beta a,96.96969696969697,False
+ethinyl estradiol  levonorgestrel,ethinyl estradiollevonorgestrel,96.875,False
+diphenhydramine,diphen hydramine,96.7741935483871,False
+interferon alfan,interferon alfa,96.7741935483871,False
+dextromethorphan,dextrometorphan,96.7741935483871,False
+abacavir  lamivudine  zidovudine,abacavir lamivudine zidovudine,96.7741935483871,False
+sulfamethoxazole,sulfamethoxazol,96.7741935483871,False
+phenazopyridine,phyenazopyridine,96.7741935483871,False
+sulfamethoxazole  trimethoprim,sulfamethoxazole trimethroprim,96.66666666666667,False
+sulfamethoxazole  trimethoprim,sulflamethoxazole trimethoprim,96.66666666666667,False
+ferrous sulfate,ferrous slfate,96.55172413793103,False
+sulfamethoxazole  trimethoprim,sulfamethoxazoletrimethoprim,96.55172413793103,False
+phenazopyridine,phenazopyidine,96.55172413793103,False
+diphenhydramine,dihenhydramine,96.55172413793103,False
+cyclobenzaprine,cylobenzaprine,96.55172413793103,False
+insulin detemir,insulin detmir,96.55172413793103,False
+nitrofurantoin,nitrofurantoine,96.55172413793103,False
+cyclobenzaprine,cyclbenzaprine,96.55172413793103,False
+ferrous sulfate,ferous sulfate,96.55172413793103,False
+dexlansoprazole,dexlasoprazole,96.55172413793103,False
+dexlansoprazole,dexlansoprazol,96.55172413793103,False
+cyclobenzaprine,cyclobenzaprin,96.55172413793103,False
+ferrous sulfate,ferrou sulfate,96.55172413793103,False
+diphenhydramine,dphenhydramine,96.55172413793103,False
+diphenhydramine,diphenydramine,96.55172413793103,False
+cyclobenzaprine,cyclobenzapine,96.55172413793103,False
+nitrofurantoin,nitrofuraintoin,96.55172413793103,False
+dextromethorphan  guaifenesin,dextrometorphan guaifenesin,96.42857142857143,False
+dextromethorphan  guaifenesin,dxtromethorphan guaifenesin,96.42857142857143,False
+levonorgestrel,levonogestrel,96.2962962962963,False
+nitrofurantoin,nitrofurantin,96.2962962962963,False
+betamethasone,bethamethasone,96.2962962962963,False
+hydrocortisone,hydrocortsone,96.2962962962963,False
+hydrocortisone,hyrocortisone,96.2962962962963,False
+nitrofurantoin,nitrofuranoin,96.2962962962963,False
+acetaminophen,acetaminnophen,96.2962962962963,False
+metronidazole,mretronidazole,96.2962962962963,False
+acetaminophen,acethaminophen,96.2962962962963,False
+calcium carbonate  vitamin d,calcium carbonatevitamin d,96.2962962962963,False
+ciprofloxacin,ciprofloxacine,96.2962962962963,False
+levetiracetam,levetiraacetam,96.2962962962963,False
+lmethylfolate,l methylfolate,96.2962962962963,False
+nitrofurantoin,nirofurantoin,96.2962962962963,False
+hydrocortisone,hydrocortison,96.2962962962963,False
+norethindrone,norenthindrone,96.2962962962963,False
+metronidazole,mertronidazole,96.2962962962963,False
+nitrofurantoin,nitrofuratoin,96.2962962962963,False
+nitrofurantoin,nitofurantoin,96.2962962962963,False
+triamcinolone,triamcionolone,96.2962962962963,False
+metronidazole,metroidazole,96.0,False
+lmethylfolate,methylfolate,96.0,False
+triamcinolone,tramcinolone,96.0,False
+aripiprazole,apripiprazole,96.0,False
+acetaminophen,acetaminphen,96.0,False
+chlorhexidine,clorhexidine,96.0,False
+amitriptyline,amitrptyline,96.0,False
+dexamethasone,dexametasone,96.0,False
+promethazine,promesthazine,96.0,False
+levothyroxine,levothroxine,96.0,False
+progesterone,progresterone,96.0,False
+metronidazole,metonidazole,96.0,False
+norethindrone,norethndrone,96.0,False
+pantoprazole,pantroprazole,96.0,False
+ketoconazole,keetoconazole,96.0,False
+metronidazole,metronidazol,96.0,False
+acetaminophen,actaminophen,96.0,False
+promethazine,phromethazine,96.0,False
+amitriptyline,mitriptyline,96.0,False
+levothyroxine,levothyroxin,96.0,False
+levofloxacin,levlofloxacin,96.0,False
+acetaminophen,acetainophen,96.0,False
+norethindrone,norethidrone,96.0,False
+azithromycin,azithromyicin,96.0,False
+ketoconazole,ketocolnazole,96.0,False
+progesterone,progesteron,95.65217391304348,False
+azithromycin,azitromycin,95.65217391304348,False
+amoxicillin  clavulanate,amoxicillinclavulanate,95.65217391304348,False
+progesterone,prgesterone,95.65217391304348,False
+erythromycin,erthromycin,95.65217391304348,False
+nystatin  triamcinolone,nystatin thriamcinolone,95.65217391304348,False
+clindamycin,clindyamycin,95.65217391304348,False
+progesterone,progestrone,95.65217391304348,False
+promethazine,promthazine,95.65217391304348,False
+fluconazole,fluconazonle,95.65217391304348,False
+lansoprazole,lasoprazole,95.65217391304348,False
+promethazine,prometazine,95.65217391304348,False
+fluocinonide,fluocionide,95.65217391304348,False
+indomethacin,indometacin,95.65217391304348,False
+progesterone,progeserone,95.65217391304348,False
+linagliptin,liinagliptin,95.65217391304348,False
+terconazole,teraconazole,95.65217391304348,False
+promethazine,promethazin,95.65217391304348,False
+terconazole,tercconazole,95.65217391304348,False
+cyclosporine,cyclosporin,95.65217391304348,False
+hydroquinone,ydroquinone,95.65217391304348,False
+ondansetron,ondanstetron,95.65217391304348,False
+ondansetron,ondansestron,95.65217391304348,False
+ondansetron,ondansetrone,95.65217391304348,False
+pantoprazole,pantoprazol,95.65217391304348,False
+ondansetron,ondansetrron,95.65217391304348,False
+ondansetron,ondanasetron,95.65217391304348,False
+amoxicillin  clavulanate,amoxicilin clavulanate,95.65217391304348,False
+terbutaline,tertbutaline,95.65217391304348,False
+epinephrine,ephinephrine,95.65217391304348,False
+clotrimazole,clotrimazol,95.65217391304348,False
+valacyclovir,valacylovir,95.65217391304348,False
+promethazine,promethzine,95.65217391304348,False
+clotrimazole,clotimazole,95.65217391304348,False
+hydrocodone,hydrocodzone,95.65217391304348,False
+ondansetron,ondansentron,95.65217391304348,False
+pantoprazole,antoprazole,95.65217391304348,False
+valacyclovir,valcyclovir,95.65217391304348,False
+nystatin  triamcinolone,nystatin triacinolone,95.45454545454545,False
+nystatin  triamcinolone,nystatintriamcinolone,95.45454545454545,False
+buprenorphine  naloxone,buprenorphinenaloxone,95.45454545454545,False
+fluticasone  salmeterol,fluticasonesalmeterol,95.45454545454545,False
+nystatin  triamcinolone,nystatin triamcinoloe,95.45454545454545,False
+triamcinolone acetonide,triamcilone acetonide,95.45454545454545,False
+fluconazole,fluconazol,95.23809523809523,False
+cephalexin,cephalexiin,95.23809523809523,False
+dimethicone,dimeticone,95.23809523809523,False
+enoxaparin,enoxaparine,95.23809523809523,False
+famotidine,famoitidine,95.23809523809523,False
+clobetasol,clobetasole,95.23809523809523,False
+gabapentin,gabapenitin,95.23809523809523,False
+methyldopa,methyl dopa,95.23809523809523,False
+methimazole,methimazol,95.23809523809523,False
+cabergoline,cabergolin,95.23809523809523,False
+terbutaline,terbutalin,95.23809523809523,False
+budesonide  formoterol,budesonideformoterol,95.23809523809523,False
+nifedipine,nifedipdine,95.23809523809523,False
+ondansetron,onansetron,95.23809523809523,False
+benzonatate,benzoatate,95.23809523809523,False
+cephalexin,cephalexcin,95.23809523809523,False
+ampicillin,amipicillin,95.23809523809523,False
+ceftriaxone,cefriaxone,95.23809523809523,False
+ondansetron,odansetron,95.23809523809523,False
+clobetasol propionate,clobetasol oropionate,95.23809523809523,False
+terconazole,terconazol,95.23809523809523,False
+cephalexin,cephalexine,95.23809523809523,False
+ondansetron,ondanstron,95.23809523809523,False
+ondansetron,ondasetron,95.23809523809523,False
+ondansetron,ondnsetron,95.23809523809523,False
+propranolol,propanolol,95.23809523809523,False
+doxycycline,doxycyline,95.23809523809523,False
+pyridoxine,pyridoxidne,95.23809523809523,False
+butalbital,bultalbital,95.23809523809523,False
+lamotrigine,lamotrigne,95.23809523809523,False
+fluconazole,fluconzole,95.23809523809523,False
+ceftriaxone,ceftiaxone,95.23809523809523,False
+folic acid,follic acid,95.23809523809523,False
+dicyclomine,dicyclomin,95.23809523809523,False
+cetirizine,certirizine,95.23809523809523,False
+pyridoxine,pyriodoxine,95.23809523809523,False
+acetaminophen  codeine,acetaminophencodeine,95.23809523809523,False
+permethrin,permethrine,95.23809523809523,False
+penicillin,penicillins,95.23809523809523,False
+ondansetron,ondanseron,95.23809523809523,False
+bepotastine besilate,bepostatine besilate,95.0,False
+doxylamine succinate,doxilamine succinate,95.0,False
+doxylamine succinate,doxalamine succinate,95.0,False
+acetaminophen  diphenhydramine,acetaminophen dyphenhydramine,94.91525423728814,False
+azelastine,azelastin,94.73684210526316,False
+codeine  guaifenesin,codeineguaifenesin,94.73684210526316,False
+bacitracin,bacitracn,94.73684210526316,False
+miconazole,miconzole,94.73684210526316,False
+hydroxyprogesterone,hydroxiprogesterone,94.73684210526316,False
+lisinopril,liinopril,94.73684210526316,False
+vitamin b,vitamin b2,94.73684210526316,False
+loratadine,loratadin,94.73684210526316,False
+alprazolam,alpazolam,94.73684210526316,False
+labetalol,labethalol,94.73684210526316,False
+sertraline,setraline,94.73684210526316,False
+doxylamine,doxylaine,94.73684210526316,False
+codeine  guaifenesin,codeine guafenesin,94.73684210526316,False
+citalopram,citalpram,94.73684210526316,False
+ampicillin,ampicllin,94.73684210526316,False
+metformin,methformin,94.73684210526316,False
+cephalexin,cephlexin,94.73684210526316,False
+polyethylene glycols,polyethlene glycol,94.73684210526316,False
+albuterol,albueterol,94.73684210526316,False
+doxylamine,doxlamine,94.73684210526316,False
+carvedilol,carvediol,94.73684210526316,False
+rhod immune globulin,rhod immune globin,94.73684210526316,False
+ibuprofen,ibuoprofen,94.73684210526316,False
+famotidine,famotdine,94.73684210526316,False
+nifedipine,niedipine,94.73684210526316,False
+ampicillin,amicillin,94.73684210526316,False
+vitamin b,vitamin b1,94.73684210526316,False
+pyridoxine,pyridoxin,94.73684210526316,False
+glyburide  metformin,glyburidemetformin,94.73684210526316,False
+penicillin,pencillin,94.73684210526316,False
+melatonin,melatonine,94.73684210526316,False
+methyldopa,methydopa,94.73684210526316,False
+calcitriol,calcitrol,94.73684210526316,False
+ibuprofen,ibuprofeno,94.73684210526316,False
+albuterol,alburterol,94.73684210526316,False
+vitamin b,vitamin b6,94.73684210526316,False
+vitamin d,vitamin ad,94.73684210526316,False
+fluoxetine,fluoxetin,94.73684210526316,False
+prednisone,predisone,94.73684210526316,False
+omeprazole,omeprzole,94.73684210526316,False
+cetirizine,cetrizine,94.73684210526316,False
+albuterol,albuterolc,94.73684210526316,False
+fluoxetine,fluoetine,94.73684210526316,False
+ibuprofen,ibuprofenc,94.73684210526316,False
+magnesium,magnessium,94.73684210526316,False
+penicillin,penicllin,94.73684210526316,False
+nifedipine,nifedpine,94.73684210526316,False
+mupirocin,mupirocine,94.73684210526316,False
+isoniazid,isoniazide,94.73684210526316,False
+benzocaine,benzocain,94.73684210526316,False
+ampicillin,ampicilin,94.73684210526316,False
+omeprazole,omeprazol,94.73684210526316,False
+pyridoxine,pridoxine,94.73684210526316,False
+ranitidine,rantidine,94.73684210526316,False
+sertraline,sertaline,94.73684210526316,False
+tinidazole,tinidazol,94.73684210526316,False
+influenzae,influenza,94.73684210526316,False
+cetirizine,cetirizin,94.73684210526316,False
+dextromethorphan  guaifenesin,dextrometorphanguaifenesin,94.54545454545455,False
+miconazole nitrate,micanazole nitrate,94.44444444444444,False
+mometasone furoate,mometasone fuorate,94.44444444444444,False
+miconazole nitrate,miconazile nitrate,94.44444444444444,False
+potassium chloride,potassium cholride,94.44444444444444,False
+miconazole nitrate,niconazole nitrate,94.44444444444444,False
+hydroxyprogesterone,hydroprogesterone,94.44444444444444,False
+hydrocortisone  pramoxine,hydrocortisone ace pramoxine,94.33962264150944,False
+glycerin,glycerine,94.11764705882352,False
+glyburide,gyburide,94.11764705882352,False
+magnesium,magnesum,94.11764705882352,False
+glyburide,glybuide,94.11764705882352,False
+nystatin,nystatine,94.11764705882352,False
+vitamin d,vitamind,94.11764705882352,False
+magnesium sulfate,magneslum sulfate,94.11764705882352,False
+glyburide,glybride,94.11764705882352,False
+naproxen,naproxeno,94.11764705882352,False
+vitamin b,vitmin b,94.11764705882352,False
+magnesium,mgnesium,94.11764705882352,False
+aspartate,aspartat,94.11764705882352,False
+benzoate,benzonate,94.11764705882352,False
+acyclovir,acylovir,94.11764705882352,False
+albuterol,albutrol,94.11764705882352,False
+potassium,potasium,94.11764705882352,False
+estradiol,esradiol,94.11764705882352,False
+glyburide,glyburid,94.11764705882352,False
+labetalol,labtalol,94.11764705882352,False
+prenatal vitamin,prenatals vitamins,94.11764705882352,False
+prenatal vitamin,prenatal vitaminis,94.11764705882352,False
+acyclovir,acyclvir,94.11764705882352,False
+glyburide,glyuride,94.11764705882352,False
+amoxicillin  clavulanate,amoxicillin pot clavulanate,94.11764705882352,False
+metformin,metfomin,94.11764705882352,False
+labetalol,labetalo,94.11764705882352,False
+lidocaine,liocaine,94.11764705882352,False
+aluminum,aluminium,94.11764705882352,False
+ibuprofen,iuprofen,94.11764705882352,False
+zolpidem tartrate,zolpidem tratrate,94.11764705882352,False
+acetaminophen  butalbital  caffeine,acetaminophenbutalbitalcaffeine,93.93939393939394,False
+hydrocortisone  pramoxine,hydrocortisone pramovine,93.87755102040816,False
+polymyxin b  trimethoprim,polymyxin b trimethropim,93.87755102040816,False
+penicillin g benzathine,pr penicillin g benzathine,93.87755102040816,False
+insulin detemir,insulin detemir u,93.75,False
+insulin glargine,insulin grargine,93.75,False
+dextromethorphan,dextromethrophan,93.75,False
+prenatal vitamin,prenatal vitamis,93.75,False
+ferrous fumarate,ferrous fumurate,93.75,False
+turmeric,tumeric,93.33333333333333,False
+codeine,wcodeine,93.33333333333333,False
+primrose,primose,93.33333333333333,False
+nystatin  triamcinolone,nystatinatriamcinolone,93.33333333333333,False
+cyclobenzaprine,cyvlobenzaprine,93.33333333333333,False
+naproxen,naroxen,93.33333333333333,False
+glucagon,gucagon,93.33333333333333,False
+hydroxyprogesterone caproate usp,hydroxyprogesterone caproate,93.33333333333333,False
+ferrous sulfate,ferrous suldate,93.33333333333333,False
+docusate,docuste,93.33333333333333,False
+insulin,insuline,93.33333333333333,False
+aspirin,asipirin,93.33333333333333,False
+benzoin,benzolin,93.33333333333333,False
+coconut,coconuts,93.33333333333333,False
+ferrous sulfate,ferrous solfate,93.33333333333333,False
+diphenhydramine,dyphenhydramine,93.33333333333333,False
+vitamin,vitaminc,93.33333333333333,False
+mineral,minerals,93.33333333333333,False
+tramadol,trmadol,93.33333333333333,False
+cyclobenzaprine,cylcobenzaprine,93.33333333333333,False
+amoxicillin  clavulanate,amoxicilinclavulanate,93.33333333333333,False
+naloxone,naloxon,93.33333333333333,False
+dexamethasone sodium phosphate,betamethasone sodium phosphate,93.33333333333333,False
+morphine,morphin,93.33333333333333,False
+magnesium oxide,megnesium oxide,93.33333333333333,False
+diphenhydramine,diphenhidramine,93.33333333333333,False
+cromolyn,cromlyn,93.33333333333333,False
+triamcinolone acetonide,triacinelone acetonide,93.33333333333333,False
+vitamin,vitamins,93.33333333333333,False
+hydrocortisone,hydroxycortisone,93.33333333333333,False
+fludrocortisone,fludricortisone,93.33333333333333,False
+buprenorphine  naloxone,buprenorphinenaloxon,93.02325581395348,False
+budesonide  formoterol,budesonide formeterol,93.02325581395348,False
+budesonide  formoterol,budesonide fermoterol,93.02325581395348,False
+metoclopramide,metoclorpamide,92.85714285714286,False
+ergocalciferol,ergocarciferol,92.85714285714286,False
+levothyroxine,levothryroixine,92.85714285714286,False
+nitrofurantoin,nitrofurantion,92.85714285714286,False
+beclomethasone,beclomathasone,92.85714285714286,False
+norelgestromin,morelgestromin,92.85714285714286,False
+metoclopramide,metoclopramida,92.85714285714286,False
+nitrofurantoin,nitrofurantine,92.85714285714286,False
+hydrocortisone,hydrocortizone,92.85714285714286,False
+triamcinolone,triamicionolone,92.85714285714286,False
+desvenlafaxine,desvenlafazine,92.85714285714286,False
+nitrofurantoin,nitrofurnatoin,92.85714285714286,False
+beclomethasone,beclomethazone,92.85714285714286,False
+beclomethasone,beclamethasone,92.85714285714286,False
+nitrofurantoin,nitrafurantoin,92.85714285714286,False
+rhod immune globulin,rho d immine globulin,92.6829268292683,False
+acetaminophen  butalbital,acetaminophen caff butalbital,92.5925925925926,False
+acetaminophen  butalbital,acetaminophen calf butalbital,92.5925925925926,False
+rhod immune globulin,rho d immune globin,92.3076923076923,False
+thyroid,throid,92.3076923076923,False
+nortriptyline,nortriptiline,92.3076923076923,False
+clarithromycin,arithromycin,92.3076923076923,False
+levetiracetam,ievetiracetam,92.3076923076923,False
+nitrofurantoin,nitrofuraton,92.3076923076923,False
+betamethasone,bethametasone,92.3076923076923,False
+shrimp,shrimps,92.3076923076923,False
+progesterone,progesteronemo,92.3076923076923,False
+chlorhexidine,chlrohexidine,92.3076923076923,False
+valganciclovir,valaciclovir,92.3076923076923,False
+clotrimazole,clotrimazole v,92.3076923076923,False
+aspart,aswpart,92.3076923076923,False
+levothyroxine,levothryoxine,92.3076923076923,False
+aspirin,asprin,92.3076923076923,False
+levetiracetam,levitiracetam,92.3076923076923,False
+triamcinolone,triamcinalone,92.3076923076923,False
+fluorouracil,fluorurouracil,92.3076923076923,False
+amitriptyline,amitryptyline,92.3076923076923,False
+aspirin,apirin,92.3076923076923,False
+insulin,nsulin,92.3076923076923,False
+acetaminophen,acetamonophen,92.3076923076923,False
+insulin,inulin,92.3076923076923,False
+metronidazole,metranidazole,92.3076923076923,False
+betamethasone,betamethazone,92.3076923076923,False
+insulin,isulin,92.3076923076923,False
+metronidazole,metronivazole,92.3076923076923,False
+insulin,insuin,92.3076923076923,False
+metronidazole,motronidazole,92.3076923076923,False
+lmethylfolate,methyl folate,92.3076923076923,False
+betamethasone,bedamethasone,92.3076923076923,False
+norelgestromin,norelgestrom,92.3076923076923,False
+metronidazole,metronidozole,92.3076923076923,False
+betamethasone,betamehtasone,92.3076923076923,False
+almond,almonds,92.3076923076923,False
+enzyme,enzymes,92.3076923076923,False
+norethindrone,norenthidrone,92.3076923076923,False
+amoxicillin  clavulanate,amoxcillin pot clavulanate,92.0,False
+methylprednisolone,methyipredinisolone,91.89189189189189,False
+hydrochlorothiazide,hydrochlorthyazide,91.89189189189189,False
+fosinopril  hydrochlorothiazide,lisinopril hydrochlorothiazide,91.80327868852459,False
+pantoprazole,panioprazole,91.66666666666666,False
+pantoprazole,pantaprazole,91.66666666666666,False
+azithromycin,azithrymycin,91.66666666666666,False
+fluocinolone,dluocinolone,91.66666666666666,False
+liothyronine,leothyronine,91.66666666666666,False
+azithromycin,azitrhomycin,91.66666666666666,False
+carboplatin,carboplatinum,91.66666666666666,False
+azathioprine,azathiaprine,91.66666666666666,False
+triamcinolone,triamcinole,91.66666666666666,False
+benzethonium,benzathonium,91.66666666666666,False
+ketoconazole,ketaconazole,91.66666666666666,False
+azithromycin,axithromycin,91.66666666666666,False
+lansoprazole,lansoprozole,91.66666666666666,False
+promethazine,promethazone,91.66666666666666,False
+hydroquinone,hydroquinine,91.66666666666666,False
+promethazine,promathazine,91.66666666666666,False
+varenicline,varenicicline,91.66666666666666,False
+pantoprazole,pantoprazone,91.66666666666666,False
+valacyclovir,valacylcovir,91.66666666666666,False
+clotrimazole,clotrimezole,91.66666666666666,False
+valacyclovir,valacycloivr,91.66666666666666,False
+ciprofloxacin,ciprofloxan,91.66666666666666,False
+azithromycin,azythromycin,91.66666666666666,False
+promethazine,promethaxine,91.66666666666666,False
+terconazole,terconanazole,91.66666666666666,False
+progesterone,progestarone,91.66666666666666,False
+progesterone,profesterone,91.66666666666666,False
+pantoprazole,lantoprazole,91.66666666666666,False
+lansoprazole,lanzoprazole,91.66666666666666,False
+clotrimazole,clotrimozole,91.66666666666666,False
+sumatriptan,sumatriptanpx,91.66666666666666,False
+valacyclovir,valacyclovor,91.66666666666666,False
+azithromycin,azithromicin,91.66666666666666,False
+promethazine,proemthazine,91.66666666666666,False
+promethazine,promtehazine,91.66666666666666,False
+ciprofloxacin  dexamethasone,ciprofloxacin dexamethasone ear,91.52542372881356,False
+hydroxyprogesterone caproate usp,hydoxyprogesterone caproate,91.52542372881356,False
+diphenhydramine  pseudoephedrine,diphenhydramine pseudoephed,91.52542372881356,False
+hydroxyprogesterone,hydroxyprogester,91.42857142857143,False
+hydroxyprogesterone,hyroxprogestrone,91.42857142857143,False
+sulfamethoxazole,sulfamethoxazoletmp,91.42857142857143,False
+polymyxin b  trimethoprim,polymyxintrimethoprim,91.30434782608697,False
+loteprednol etabonate,loteprednol etabonate eye,91.30434782608697,False
+triamcinolone acetonide,triamcinolone acetodine,91.30434782608697,False
+desogestrel  ethinyl estradiol,nogestrel ethinyl estradiol,91.22807017543859,False
+clindamycin,clindamcyin,90.9090909090909,False
+ondansetron,ondensetron,90.9090909090909,False
+hydroxyzine,hydroxizine,90.9090909090909,False
+methimazole,methlmazole,90.9090909090909,False
+clindamycin,clindomycin,90.9090909090909,False
+valacyclovir,valacyclov,90.9090909090909,False
+folic,folbic,90.9090909090909,False
+clindamycin,climdamycin,90.9090909090909,False
+darbepoetin,darbopoetin,90.9090909090909,False
+nystatin  triamcinolone,nistatintriamcinolone,90.9090909090909,False
+oseltamivir,olsetamivir,90.9090909090909,False
+acetylcarnitine,acetyl l carnitine,90.9090909090909,False
+methimazole,mwthimazole,90.9090909090909,False
+mirtazapine,mitarzapine,90.9090909090909,False
+omega,omegas,90.9090909090909,False
+prednisolone acetate,prednisolone acetate eye,90.9090909090909,False
+pheniramine  phenylephrine,brompheniramine phenylephrine,90.9090909090909,False
+ondansetron,ontansetron,90.9090909090909,False
+terconazole,terconozole,90.9090909090909,False
+ceftriaxone,cefrtiaxone,90.9090909090909,False
+fluconazole,fluconasole,90.9090909090909,False
+ondansetron,ondanestron,90.9090909090909,False
+benzonatate,beazonatate,90.9090909090909,False
+hydroxychloroquine,hydrocloroquine,90.9090909090909,False
+fluconazole,flucanazole,90.9090909090909,False
+amphetamine,ampethamine,90.9090909090909,False
+fiber,fibrer,90.9090909090909,False
+ceftriaxone,cefreiaxone,90.9090909090909,False
+fluconazole,fluconzaole,90.9090909090909,False
+ondansetron,ondansetorn,90.9090909090909,False
+terconazole,tercanazole,90.9090909090909,False
+ondansetron,ondasentron,90.9090909090909,False
+amoxicillin  clavulanate,amoxilin clavulanate,90.9090909090909,False
+clindamycin,clindamicin,90.9090909090909,False
+oseltamivir,oseltamibir,90.9090909090909,False
+propranolol,propranalol,90.9090909090909,False
+oseltamivir,osetalmivir,90.9090909090909,False
+progesterone,progestron,90.9090909090909,False
+ceftriaxone,ceftriazone,90.9090909090909,False
+ceftriaxone,cextriaxone,90.9090909090909,False
+sodium chloride,sodium chloride ns,90.9090909090909,False
+beclomethasone dipropionate,betamethasone dipropionate,90.56603773584906,False
+neomycin  polymyxin b,neomycin polymyxin hc,90.47619047619048,False
+acetylcysteine,n acetyl cysteine,90.32258064516128,False
+calcium carbonate  vitamin d,calcium carbonate vit d,90.19607843137256,False
+cephalexin,cephalaxin,90.0,False
+clobetasol,clobetosol,90.0,False
+famotidine,famotodine,90.0,False
+mesalamine,mesalazine,90.0,False
+prednisone,perdnisone,90.0,False
+estradiol,estrtradiol,90.0,False
+sennosides,sannosides,90.0,False
+cetirizine,cetirizibe,90.0,False
+famotidine,femotidine,90.0,False
+doxylamine,doxilamine,90.0,False
+enoxaparin,enoxoparin,90.0,False
+doxylamine,doxyalmine,90.0,False
+formoterol,formeterol,90.0,False
+citalopram,cytalopram,90.0,False
+folic acid,folic aicd,90.0,False
+nifedipine,difedipine,90.0,False
+ampicillin,amipcillin,90.0,False
+azelastine,azalastine,90.0,False
+cephalexin,cephelexin,90.0,False
+doxylamine,dosylamine,90.0,False
+clonazepam,clonazapam,90.0,False
+nifedipine,nifidipine,90.0,False
+amoxicillin,amoxillin,90.0,False
+famotidine,fmaotidine,90.0,False
+ceftriaxone,cefriaxon,90.0,False
+doxycycline,doxycline,90.0,False
+folic acid,folid acid,90.0,False
+hydroxyprogesterone caproate usp,hydroxyprogesterone caporate,90.0,False
+metformin,h metformin,90.0,False
+clonazepam,clonazepqm,90.0,False
+budesonide,budesanide,90.0,False
+omeprazole,omperazole,90.0,False
+doxylamine,doxylanine,90.0,False
+hydroxyzine,hydroxyne,90.0,False
+famotidine,famotidien,90.0,False
+hydrocodone,hydrocone,90.0,False
+olmesartan,olmersatan,90.0,False
+cefpodoxime,cefpoxime,90.0,False
+amlodipine,almodipine,90.0,False
+metoprolol,metropolol,90.0,False
+labetalol,labetalolol,90.0,False
+metoprolol,metopralol,90.0,False
+oxybutynin,oxybutinin,90.0,False
+loratadine,loratidine,90.0,False
+ranitidine,ranitidina,90.0,False
+folic acid,floic acid,90.0,False
+sennosides,sennoisdes,90.0,False
+gentamicin sulfate usp,gentamicin sulfate,90.0,False
+budesonide,budesonida,90.0,False
+pyridoxine,pyridixine,90.0,False
+fluoxetine,fluexetine,90.0,False
+cephalexin,cefhalexin,90.0,False
+butalbital,bubalbital,90.0,False
+desogestrel  ethinyl estradiol,etonogestrel ethinyl estradiol,90.0,False
+loratadine,loradadine,90.0,False
+desogestrel  ethinyl estradiol,norgestrel ethinyl estradiol,89.65517241379311,False
+ferric sulfate,ferrpis sulfate,89.65517241379311,False
+diphenhydramine,dyphenydramine,89.65517241379311,False
+hydroxyprogesterone caproate usp,hydroxyprogesterone caproa,89.65517241379311,False
+magnesium gluconate,magnesium glycinate,89.47368421052632,False
+antipyrine  benzocaine,antipyrine benzocaine ear,89.36170212765957,False
+vitamin d,vitimin d,88.88888888888889,False
+iron,irone,88.88888888888889,False
+vitamin k,vitamin n,88.88888888888889,False
+mupirocin,nupirocin,88.88888888888889,False
+fluticasone  salmeterol,fluticosane salmeterol,88.88888888888889,False
+albuterol,albutarol,88.88888888888889,False
+metformin,matformin,88.88888888888889,False
+acid,acide,88.88888888888889,False
+boron,oron,88.88888888888889,False
+magnesium,mangesium,88.88888888888889,False
+glyburide,glycuride,88.88888888888889,False
+acyclovir,acyclovic,88.88888888888889,False
+labetalol,lebetalol,88.88888888888889,False
+oxycodone,oxucodone,88.88888888888889,False
+glyburide,gluburide,88.88888888888889,False
+coenzyme q,coenzyme,88.88888888888889,False
+letrozole,letrazole,88.88888888888889,False
+glyburide,gliburide,88.88888888888889,False
+metformin,melformin,88.88888888888889,False
+magnesium,magneisum,88.88888888888889,False
+aspartate,aspartame,88.88888888888889,False
+glyburide,blyburide,88.88888888888889,False
+mupirocin,mupriocin,88.88888888888889,False
+glyburide,glyburied,88.88888888888889,False
+acid,acids,88.88888888888889,False
+album,alum,88.88888888888889,False
+labetalol,labetabol,88.88888888888889,False
+metformin,metformim,88.88888888888889,False
+labetalol,labetatol,88.88888888888889,False
+glyburide,glyburdie,88.88888888888889,False
+iron,ironc,88.88888888888889,False
+beclomethasone dipropionate,betamethasone dirpropionate,88.88888888888889,False
+labetalol,laberalol,88.88888888888889,False
+methadone,methodone,88.88888888888889,False
+ibuprofen,obuprofen,88.88888888888889,False
+glyburide,glybiride,88.88888888888889,False
+vitamin k,vitamin c,88.88888888888889,False
+glyburide,gylburide,88.88888888888889,False
+trazodone,trazadone,88.88888888888889,False
+tinidazole,nidazole,88.88888888888889,False
+cortisone,cortizone,88.88888888888889,False
+coagulant,coagulans,88.88888888888889,False
+witch,with,88.88888888888889,False
+labetalol,lobetalol,88.88888888888889,False
+ibuprofen,ibuprogen,88.88888888888889,False
+bupropion,bubropion,88.88888888888889,False
+magnesium,magnisium,88.88888888888889,False
+bran,brand,88.88888888888889,False
+labetalol,labetolol,88.88888888888889,False
+evening primrose oil,evening primrose,88.88888888888889,False
+mite,mites,88.88888888888889,False
+coral,oral,88.88888888888889,False
+desogestrel  ethinyl estradiol,levonogestrel ethinyl estradiol,88.52459016393442,False
+amoxicillin  clavulanate,amoxicillin clavulanate acid,88.46153846153845,False
+amoxicillin trihydrate,ampicollin trihydrate,88.37209302325581,False
+docosahexaenoic acid,docosahexanoic anti cid,88.37209302325581,False
+valacyclovir,valacyclorivr,88.0,False
+levothyroxine,levotyroxinw,88.0,False
+losartan potassium,losartan potassium hctz,87.8048780487805,False
+ethinyl estradiol  norgestrel,ethinyl estradioldesogestrel,87.71929824561404,False
+cultured,culturel,87.5,False
+valerian,valarian,87.5,False
+prochlorperazine,prochlorparezine,87.5,False
+vitamin,vitamines,87.5,False
+heparin,heparitin,87.5,False
+chloride,cholride,87.5,False
+mannose,d mannose,87.5,False
+fentanyl,fantanyl,87.5,False
+naproxen,nparoxen,87.5,False
+labetalol,labetol,87.5,False
+phosphate,phospha,87.5,False
+ursodiol,ursidiol,87.5,False
+acyclovir,aclovir,87.5,False
+beclomethasone dipropionate,beclomethasone diprop,87.5,False
+glycine,glycinate,87.5,False
+sulfacetamide  sulfur,sulfacetamide sodium sulfur,87.5,False
+naloxone,noloxone,87.5,False
+calcium carbonate  vitamin d,calcium carbonate vit d min,87.27272727272728,False
+desogestrel  ethinyl estradiol,levonorgestrel ethinyl estradiol,87.09677419354838,False
+hydrocodone,hydrococlone,86.95652173913044,False
+dicloxacillin,dicloxacin,86.95652173913044,False
+ondansetron,ondandestron,86.95652173913044,False
+progesterone,progetrione,86.95652173913044,False
+nifedipine,nifedipine er,86.95652173913044,False
+betamethasone,betamasone,86.95652173913044,False
+doxylamine succinate,doxylamine succinate sleep,86.95652173913044,False
+azithromycin,azitromicin,86.95652173913044,False
+azithromycin,zithromicin,86.95652173913044,False
+nifedipine,nifedipine cr,86.95652173913044,False
+erythromycin,crythomycin,86.95652173913044,False
+raltegravir,faltergravir,86.95652173913044,False
+sulfadoxine,sulphadoxine,86.95652173913044,False
+emtricitabine,emtricitab,86.95652173913044,False
+triamcinolone acetonide,triamcinolone acetonide mcgact,86.79245283018868,False
+fluticasone  salmeterol,fluticasone propion salmeterol,86.79245283018868,False
+calcium carbonate  vitamin d,calcium citrate vitamin d,86.79245283018868,False
+oxcarbazepine,oxcarbaramazepine,86.66666666666667,False
+insulin detemir,insulin levemir,86.66666666666667,False
+hydroxyprogesterone caproate usp,hydroxyprogesteribe caproate,86.66666666666667,False
+desogestrel  ethinyl estradiol,levonogestrel ehinyl estradiol,86.66666666666667,False
+ciprofloxacin,ciprofloxacin eye,86.66666666666667,False
+ciprofloxacin,ciprofloxacin ear,86.66666666666667,False
+prenatal vitamin,prenatal vitaminsfeso,86.48648648648648,False
+amoxicillin  clavulanate,amoxicillin clavulin,86.36363636363636,False
+folic acid,folica aicd,85.71428571428572,False
+cod,cold,85.71428571428572,False
+rhod immune globulin,immune globulin,85.71428571428572,False
+diphenhydramine,diphenhydraminesyrup,85.71428571428572,False
+fluconazole,flucanzole,85.71428571428572,False
+mineral,inderal,85.71428571428572,False
+zinc,zin,85.71428571428572,False
+hydroxyzine,hydoxizine,85.71428571428572,False
+thyroxine,lyothyroxine,85.71428571428572,False
+morinda,moringa,85.71428571428572,False
+iron,irn,85.71428571428572,False
+peptide,pepcide,85.71428571428572,False
+cetirizine,cefterizine,85.71428571428572,False
+bay,baby,85.71428571428572,False
+glycolate,glycosylated,85.71428571428572,False
+emetine,metzine,85.71428571428572,False
+diphenhydramine,diphenhydramine apap,85.71428571428572,False
+var,qvar,85.71428571428572,False
+benzoyl,benzoil,85.71428571428572,False
+veal,val,85.71428571428572,False
+corn,con,85.71428571428572,False
+tea,teas,85.71428571428572,False
+fluconazole,fluconzale,85.71428571428572,False
+acai berry extract,cranberry extract,85.71428571428572,False
+venlafaxine,venaflaxin,85.71428571428572,False
+iron,ron,85.71428571428572,False
+pear,ear,85.71428571428572,False
+vitamin b complex,b vitamins complex,85.71428571428572,False
+insulin,inuslin,85.71428571428572,False
+norgestimate,norgestim,85.71428571428572,False
+ondansetron,odensetron,85.71428571428572,False
+alfa,ala,85.71428571428572,False
+pseudoephedrine,pseudoephedrine apap,85.71428571428572,False
+acid,acd,85.71428571428572,False
+prednisolone,prednisol,85.71428571428572,False
+pear,per,85.71428571428572,False
+usp,susp,85.71428571428572,False
+hydrocodone,hydroconde,85.71428571428572,False
+miconazole nitrate,miconazole nitrate wipes,85.71428571428572,False
+nitrofurantoin,nitrofurnation,85.71428571428572,False
+guar,gua,85.71428571428572,False
+ferrous sulfate,ferrous sulfatevit c,85.71428571428572,False
+malate,sumalate,85.71428571428572,False
+ceftriaxone,ceftrizone,85.71428571428572,False
+hair,air,85.71428571428572,False
+regular,regualr,85.71428571428572,False
+iron,ion,85.71428571428572,False
+docosahexaenoic acid,docosahexaenoic,85.71428571428572,False
+lysine,l lysine,85.71428571428572,False
+peptide,pepside,85.71428571428572,False
+pramoxine,pramoxine hc,85.71428571428572,False
+lansoprazole,lansopraz,85.71428571428572,False
+city,cit,85.71428571428572,False
+desogestrel  ethinyl estradiol,levonorgestrelethinyl estradiol,85.24590163934427,False
+polyethylene glycol ,polyethylene glycol miralax,85.1063829787234,False
+lidocaine  prilocaine,lidocaine priloc lidocaine,85.1063829787234,False
+pramoxine hydrochloride,pramoxine hydrocortisone,85.1063829787234,False
+doxylamine succinate,doxylamine succinate unisom,85.1063829787234,False
+lidocaine hydrochloride,lidocaine hydrocortisone,85.1063829787234,False
+hydrocortisone,hydrocortisone oint,84.84848484848484,False
+metronidazole,metronizadole,84.61538461538461,False
+betamethasone,bethametazone,84.61538461538461,False
+simethicone,simethicone gas,84.61538461538461,False
+metronidazole,metrodinazole,84.61538461538461,False
+mecobalamin,methylcobalamin,84.61538461538461,False
+pseudoephedrine,pseudoephed,84.61538461538461,False
+aluminum hydroxide  magnesium hydroxide  simethicone,aluminummagnesium hydroxidesimethicone,84.44444444444444,False
+hydrocortisone acetate,hydrocortisone butyrate,84.44444444444444,False
+natamycin,gentamycin,84.21052631578947,False
+labetalol,labetlolol,84.21052631578947,False
+terconazole,terazole,84.21052631578947,False
+beclomethasone dipropionate,betamethasone dipropionate aug,84.21052631578947,False
+guanfacine,guinfacin,84.21052631578947,False
+fluoxetine,fluxatine,84.21052631578947,False
+salmon oil,lemon oil,84.21052631578947,False
+insulin  aspart  human,insulin aspart u,84.21052631578947,False
+propranolol,propanol,84.21052631578947,False
+cephalexin,cefalexin,84.21052631578947,False
+miconazole,micanzole,84.21052631578947,False
+rilpivirine,rilpivir,84.21052631578947,False
+cladribine,claritine,84.21052631578947,False
+furosemide,frusemide,84.21052631578947,False
+ceftriaxone,ceftriax,84.21052631578947,False
+topiramate,topiramax,84.21052631578947,False
+phenylephrine  pyrilamine,phenylephrine pheniramine,84.0,False
+hydrocortisone acetate,hydrocortisone acetaminophen,84.0,False
+acetaminophen  caffeine,butalbacetaminophencaffeine,84.0,False
+chlorhexidine,chlorhexidine wash,83.87096774193549,False
+miconazole nitrate,miconazole nitrates wipes,83.72093023255813,False
+hydrocortisone acetate,hydrocortisone rectal,83.72093023255813,False
+cetirizine  pseudoephedrine,triprolidine pseudoephedrine,83.63636363636364,False
+triamcinolone acetonide,triamcinolone acetonide top oint,83.63636363636364,False
+loratadine  pseudoephedrine,loratidine pseudoepinephrine,83.63636363636364,False
+dexamethasone sodium phosphate,betamethasone acetatesodium phosphate,83.5820895522388,False
+acetylcysteine,acetylcyst,83.33333333333334,False
+ketoconazole,ketoconolaze,83.33333333333334,False
+valine,saline,83.33333333333334,False
+bengal,bengay,83.33333333333334,False
+azithromycin,azythromicin,83.33333333333334,False
+oleate,folate,83.33333333333334,False
+rhod immune globulin,immune globuline,83.33333333333334,False
+indomethacin,indomethican,83.33333333333334,False
+aspirin,sprin,83.33333333333334,False
+ethinyl,ethin,83.33333333333334,False
+lmethylfolate,methofolate,83.33333333333334,False
+retinyl,retin,83.33333333333334,False
+chlorpheniramine maleate,prochlorperazine maleate,83.33333333333334,False
+hydrocortisone  neomycin,hydrocortisone injection,83.33333333333334,False
+human,humalin,83.33333333333334,False
+zinc sulfate,iron sulfate,83.33333333333334,False
+herring,errin,83.33333333333334,False
+calcium citrate,calcium citrate vit d,83.33333333333334,False
+tobramycin,tobramycin eye,83.33333333333334,False
+pepsin,pepsid,83.33333333333334,False
+clotrimazole,clomitrazole,83.33333333333334,False
+pseudoephedrine,pseudoephedrine gg cr,83.33333333333334,False
+fluocinonide,fluocinodine,83.33333333333334,False
+sulfate,sulfa,83.33333333333334,False
+extract,extra,83.33333333333334,False
+azithromycin,azithromacyn,83.33333333333334,False
+ethyl,ethynil,83.33333333333334,False
+pantoprazole,pantoprozale,83.33333333333334,False
+oyster,zoster,83.33333333333334,False
+pseudoephedrine,pseudoephedrine dm gg,83.33333333333334,False
+azithromycin,azithromicyn,83.33333333333334,False
+lactis,lantis,83.33333333333334,False
+benzyl,bentyl,83.33333333333334,False
+dexamethasone sodium phosphate,betamethasonacetatesodium phosphate,83.07692307692307,False
+acetaminophen  caffeine,aspirin acetaminophen caffeine,83.01886792452831,False
+erythromycin,erythromycin base,82.75862068965517,False
+cyclobenzaprine,ciclobenzapril,82.75862068965517,False
+pyrimethamine,pyrinethethamine,82.75862068965517,False
+oxyphencyclimine,phencyclidine,82.75862068965517,False
+labetalol,labtetol,82.35294117647058,False
+lamivudine,lamivud,82.35294117647058,False
+cultured,culturell,82.35294117647058,False
+rhod immune globulin,mmune globulin,82.35294117647058,False
+docosahexaenoic acid,dcosahexaenoic,82.35294117647058,False
+etretinate,trinate,82.35294117647058,False
+letrozole,metrozol,82.35294117647058,False
+chocolate,accolate,82.35294117647058,False
+amoxicillin  clavulanate,amoxicillin clavulanic acid,82.35294117647058,False
+atenolol,latenalol,82.35294117647058,False
+rhod immune globulin,immue globulin,82.35294117647058,False
+dexamethasone sodium phosphate,betamethasone acetate sodium phosphate,82.35294117647058,False
+hydrocortisone,hydrocortison rectal,82.35294117647058,False
+glycolate,glycolax,82.35294117647058,False
+cholestyramine resin,cholestyramine,82.35294117647058,False
+vitamin k,vitamins,82.35294117647058,False
+magnesium,magnesia,82.35294117647058,False
+fluoride,fluorodex,82.35294117647058,False
+glyburide,glubride,82.35294117647058,False
+naproxen,naproxone,82.35294117647058,False
+ethanol,ethanolate,82.35294117647058,False
+nph insulin  human,nph insulin humulin n,82.05128205128204,False
+venlafaxine,venfalaxine,81.81818181818181,False
+fluconazole,fluconzaloe,81.81818181818181,False
+clindamycin,clyndamicin,81.81818181818181,False
+acyclovir,acyclovir tid,81.81818181818181,False
+thiosulfate,picosulfate,81.81818181818181,False
+liraglutide,dulaglutide,81.81818181818181,False
+liraglutide,albiglutide,81.81818181818181,False
+hydrocodone,hysrocodome,81.81818181818181,False
+vitamin b ,vitmin b1 b1,81.81818181818181,False
+ofloxacin,ofloxacin ear,81.81818181818181,False
+methysergide,methergine,81.81818181818181,False
+chlorphenesin,chlorphen,81.81818181818181,False
+histamine,antihistamine,81.81818181818181,False
+lmethylfolate,methylfol,81.81818181818181,False
+vitamin d,dha vitamin d,81.81818181818181,False
+methimazole,methamizole,81.81818181818181,False
+phenylephrine,phenyleph,81.81818181818181,False
+thyroxine,levothyroxine,81.81818181818181,False
+darbepoetin alfa,darbepoetin,81.4814814814815,False
+cyclopentolate,mycophenolate,81.4814814814815,False
+scopolamine,scopolamine base,81.4814814814815,False
+hexachlorophene,dexchlorphen,81.4814814814815,False
+desogestrel  ethinyl estradiol,levonorgestrel ethinyl estrad,81.35593220338984,False
+ciprofloxacin  dexamethasone,ciprofloxacindexamethasone otic susp,81.25,False
+ciprofloxacin,ciprofloxacin cipro,81.25,False
+insulin  zinc  human,insulin nph human,81.08108108108108,False
+medroxyprogesterone,methylprogesterone,81.08108108108108,False
+sodium chloride,sodium chloridexylitol,81.08108108108108,False
+regular insulin  human,regular insulin,81.08108108108108,False
+doxycycline hyclate,doxycycline monohydrate,80.95238095238095,False
+enoxaparin sodium,enoxaparin sodium mgml sc,80.95238095238095,False
+polyethylene glycols,miralax polyethylene glycol,80.85106382978724,False
+hydrocortisone acetate,hydroxycortisone butyrate,80.85106382978724,False
+pseudoephedrine  triprolidine,pseudoephedrine codeine,80.76923076923077,False
+budesonide  formoterol,budesonide formoterol fumarate,80.76923076923077,False
+clobetasol propionate,clobetasol propionate emollient,80.76923076923077,False
+triamcinolone acetonide,triamcinolone acetonide nasal spry,80.70175438596492,False
+sulfamethoxazole  trimethoprim,sulfamethozsaletrimethropin,80.70175438596492,False
+drospirenone  ethinyl estradiol,norethindrone ethinyl estradiol,80.64516129032258,False
+pseudoephedrine,pseudophed,80.0,False
+cortisone,cortisporin,80.0,False
+pyridoxine,pyroxidine,80.0,False
+nimodipine,nefidipine,80.0,False
+cefoxitin,ceftin,80.0,False
+lisinopril,lisinopril hctz,80.0,False
+cow,co,80.0,False
+butalbital,butalbital apap,80.0,False
+benzoyl,benodryl,80.0,False
+disodium,imodium,80.0,False
+north,ortho,80.0,False
+alfan,calan,80.0,False
+short,shots,80.0,False
+penicillin,pcn penicillins,80.0,False
+famotidine,fomatidine,80.0,False
+pacific,specific,80.0,False
+proline,prolisec,80.0,False
+magnesium malate,magnesium milk,80.0,False
+orlistat,oxistat,80.0,False
+peroxide,perodex,80.0,False
+egg,gg,80.0,False
+probenecid,prebenacid,80.0,False
+sennosides  usp,sennosides,80.0,False
+budesonide,budosenide,80.0,False
+chorionic gonadotropin,choriogonadotropin alfa,80.0,False
+warfarin,warafin,80.0,False
+acetic,acet,80.0,False
+methyl,methylcob,80.0,False
+phenylephrine hydrochloride,phenylephrine chlorphen,80.0,False
+ofloxacin,floxin,80.0,False
+pyridoxine,pyrodixine,80.0,False
+phentermine,phenergin,80.0,False
+black,block,80.0,False
+desogestrel  ethinyl estradiol,norelgestrom ethinyl estradiol,80.0,False
+desogestrel  ethinyl estradiol,norgestimate ethinyl estradiol,80.0,False
+apple,apply,80.0,False
+wheat,heart,80.0,False
+folic acid,iron folic acid,80.0,False
+desogestrel  ethinyl estradiol,norelgestron ethinyl estradiol,80.0,False
+omeprazole,omeprezale,80.0,False
+vi,vis,80.0,False
+fab,fa,80.0,False
+capsular,capsule,80.0,False
+metoprolol,metoproral,80.0,False
+amyl,amaryl,80.0,False
+as,asa,80.0,False
+midodrine,midrin,80.0,False
+vi,vit,80.0,False
+certolizumab pegol,certolizumab,80.0,False
+iii,ii,80.0,False
+ephedrine  guaifenesin,phenylephrine dm guaifenesin,80.0,False
+pea,pe,80.0,False
+hydrocortisone  pramoxine,hydrocortisone pramoxinerectal foam,80.0,False
+acetaminophen  tramadol,acetaminophen pamabrom,80.0,False
+peroxide,peridex,80.0,False
+stearate,stelara,80.0,False
+nicotine,micotin,80.0,False
+orgotein,protein,80.0,False
+rna,na,80.0,False
+nimodipine,nidefipine,80.0,False
+red,rd,80.0,False
+estriol,restoril,80.0,False
+as,gas,80.0,False
+malt,maltol,80.0,False
+procaine,porcine,80.0,False
+diltiazem,diltia,80.0,False
+vitamin,evitumin,80.0,False
+cat,ca,80.0,False
+tannate,trandate,80.0,False
+estradiol,estrad,80.0,False
+darco,narco,80.0,False
+primrose,prilose,80.0,False
+betaine,brethine,80.0,False
+lyo,lo,80.0,False
+complex,complera,80.0,False
+melon,melox,80.0,False
+amoxicillin  clavulanate,amoxicillinclavulanic acid,80.0,False
+ketoconazole,ketoconazole topic,80.0,False
+von,on,80.0,False
+nph,np,80.0,False
+coal,clozal,80.0,False
+peach,patch,80.0,False
+bupivacaine  epinephrine,lidocaine epinephrine,80.0,False
+complex,complete,80.0,False
+estrone,estrogen,80.0,False
+metronidazole,mentradazole,80.0,False
+insulin,inslun,80.0,True
+tenofovir,tenofo,80.0,False
+papain,pain,80.0,False
+citrate,caltrate,80.0,False
+lurasidone,lurasonide,80.0,False
+copper,compplera,80.0,False
+tice,letice,80.0,False
+st,est,80.0,False
+yam,am,80.0,False
+as,was,80.0,False
+broom,bloom,80.0,False
+dextromethorphan  doxylamine,dextromethorphan benzocaine,80.0,False
+tramadol,toradol,80.0,False

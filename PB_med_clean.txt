@@ -1,0 +1,4 @@
+# This sript cleans a list of peribank medications for spelling and consistancy
+# It outputs the orgional spelling and a series of fixes 
+# Last updated 13 April 2023, Maxim Seferovic (seferovi@bcm.edu), and Brandon T. Garcia(Brandon.Garcia@bcm.edu
+# !/usr/bin/env python3
