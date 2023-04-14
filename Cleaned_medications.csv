@@ -1,4 +1,4 @@
-PBDB_entry (5148 unique),alphabet_filtered (3580 unique),word_striped (3133 unique),spelling (2364 unique)
+PBDB_entry (5148 unique),alphabet_filtered (3580 unique),word_striped (3109 unique),spelling (2340 unique)
 """Birth prep"" pills",birth prep pills,birth prep pills,birth prep pills
 """Cold medicine"" (unspecified brand)",cold medicine unspecified brand,cold medicine unspecified brand,cod medicine unspecified bran
 """Gentle birth formula""",gentle birth formula,gentle birth formula,gentle birth formula
@@ -73,9 +73,9 @@ Ampicillin-Sulbactam,ampicillin sulbactam,ampicillin sulbactam,ampicillin sulbac
 Antacids,antacids,antacids,antacids
 Antihistamine,antihistamine,antihistamine,histamine
 Antihistamines,antihistamines,antihistamines,antihistamines
-Antipyrine-benzocaine ear drops,antipyrine benzocaine ear drops,antipyrine benzocaine ear,antipyrine  benzocaine
+Antipyrine-benzocaine ear drops,antipyrine benzocaine ear drops,antipyrine benzocaine,antipyrine  benzocaine
 Antivan,antivan,antivan,antivan
-Anulsol-HC,anulsol hc,anulsol hc,anulsol hc
+Anulsol-HC,anulsol hc,anulsol,anulsol
 Anusol,anusol,anusol,anusol
 Aquaphor Healing 41%,aquaphor healing ,aquaphor healing,aquaphor healing
 Aripiprazole,aripiprazole,aripiprazole,aripiprazole
@@ -102,7 +102,7 @@ Azelaic Acid,azelaic acid,azelaic acid,azelaic acid
 Azelastin,azelastin,azelastin,azelastine
 Azelastine,azelastine,azelastine,azelastine
 Azelastine nasal spray,azelastine nasal spray,azelastine,azelastine
-Azelastine ophthalmic solution,azelastine ophthalmic solution,azelastine ophthalmic solution,azelastine ophthalmic solution
+Azelastine ophthalmic solution,azelastine ophthalmic solution,azelastine,azelastine
 Azelastine-Fluticasone,azelastine fluticasone,azelastine fluticasone,azelastine fluticasone
 Azelastine-Fluticasone-NaCl,azelastine fluticasone nacl,azelastine fluticasone,azelastine fluticasone
 Azithromycin,azithromycin,azithromycin,azithromycin
@@ -288,7 +288,7 @@ CHOLEcalciferol,cholecalciferol,cholecalciferol,cholecalciferol
 CHOLINE,choline,choline,choline
 CIPROFLOXACIN,ciprofloxacin,ciprofloxacin,ciprofloxacin
 CITRACAL SLOW RELEASE,citracal slow release,citracal slow release,citracal slow release
-CITRANATAL ASSURE,citranatal assure,citranatal assure,citranatal assure
+CITRANATAL ASSURE,citranatal assure,citranatal,citranatal
 CLARITIN,claritin,claritin,claritin
 CLARITIN-D 12,claritin d ,claritin d,claritin d
 CLEOCIN,cleocin,cleocin,cleocin
@@ -404,26 +404,26 @@ Ciclesonide,ciclesonide,ciclesonide,ciclesonide
 Ciclopirox,ciclopirox,ciclopirox,ciclopirox
 Cimzia,cimzia,cimzia,cimzia
 Cinnamon suplements,cinnamon suplements,cinnamon suplements,cinnamon suplements
-Cipro-HC,cipro hc,cipro hc,cipro hc
+Cipro-HC,cipro hc,cipro,cipro
 Ciprodex,ciprodex,ciprodex,ciprodex
 Ciprofloxacin,ciprofloxacin,ciprofloxacin,ciprofloxacin
 Ciprofloxacin (CIPRO) PO tab,ciprofloxacin cipro po tab,ciprofloxacin cipro,ciprofloxacin
 Ciprofloxacin eye drops,ciprofloxacin eye drops,ciprofloxacin eye,ciprofloxacin
-Ciprofloxacin otic solution,ciprofloxacin otic solution,ciprofloxacin otic solution,ciprofloxacin otic solution
+Ciprofloxacin otic solution,ciprofloxacin otic solution,ciprofloxacin,ciprofloxacin
 Ciprofloxacin-Dexamethasone,ciprofloxacin dexamethasone,ciprofloxacin dexamethasone,ciprofloxacin  dexamethasone
-Ciprofloxacin-dexamethasone otic suspension,ciprofloxacin dexamethasone otic suspension,ciprofloxacin dexamethasone otic suspension,ciprofloxacin dexamethasone otic suspension
+Ciprofloxacin-dexamethasone otic suspension,ciprofloxacin dexamethasone otic suspension,ciprofloxacin dexamethasone,ciprofloxacin  dexamethasone
 Citalopram,citalopram,citalopram,citalopram
 Citalopram Hydrobromide,citalopram hydrobromide,citalopram hydrobromide,citalopram hydrobromide
 Citalopram hydrobromide,citalopram hydrobromide,citalopram hydrobromide,citalopram hydrobromide
 CitraNatal,citranatal,citranatal,citranatal
-CitraNatal 90 DHA,citranatal  dha,citranatal dha,citranatal dha
+CitraNatal 90 DHA,citranatal  dha,citranatal,citranatal
 Citracal,citracal,citracal,citracal
 Citranatal,citranatal,citranatal,citranatal
-Citranatal 90 DHA 90-1,citranatal  dha  ,citranatal dha,citranatal dha
-Citranatal Assure,citranatal assure,citranatal assure,citranatal assure
-Citranatal DHA,citranatal dha,citranatal dha,citranatal dha
+Citranatal 90 DHA 90-1,citranatal  dha  ,citranatal,citranatal
+Citranatal Assure,citranatal assure,citranatal,citranatal
+Citranatal DHA,citranatal dha,citranatal,citranatal
 iron,iron,iron,iron
-Citranatal assure,citranatal assure,citranatal assure,citranatal assure
+Citranatal assure,citranatal assure,citranatal,citranatal
 Citric Acid,citric acid,citric acid,citric acid
 Citrulline,citrulline,citrulline,citrulline
 Claratin,claratin,claratin,claratin
@@ -453,7 +453,7 @@ Clindamycin-Benzoil Peroxide,clindamycin benzoil peroxide,clindamycin benzoil pe
 Clindamycin/benzoyl peroxide,clindamycinbenzoyl peroxide,clindamycinbenzoyl peroxide,clindamycinbenzoyl peroxide
 Clindomycin,clindomycin,clindomycin,clindamycin
 Clobetasol,clobetasol,clobetasol,clobetasol
-Clobetasol external solution,clobetasol external solution,clobetasol external solution,clobetasol external solution
+Clobetasol external solution,clobetasol external solution,clobetasol external,clobetasol external
 Clobetasol oropionate,clobetasol oropionate,clobetasol oropionate,clobetasol propionate
 Clobex,clobex,clobex,clobex
 Clocortolone Pivalate,clocortolone pivalate,clocortolone pivalate,clocortolone pivalate
@@ -467,10 +467,10 @@ Clotrimazole (Topical),clotrimazole topical,clotrimazole,clotrimazole
 Clotrimazole / Betamethasone,clotrimazole  betamethasone,clotrimazole betamethasone,clotrimazole betamethasone
 Clotrimazole 1 % vaginal cream,clotrimazole   vaginal cream,clotrimazole,clotrimazole
 Clotrimazole 1%,clotrimazole ,clotrimazole,clotrimazole
-Clotrimazole Ext Solution,clotrimazole ext solution,clotrimazole ext solution,clotrimazole ext solution
+Clotrimazole Ext Solution,clotrimazole ext solution,clotrimazole ext,clotrimazole
 Clotrimazole VAG CRM,clotrimazole vag crm,clotrimazole,clotrimazole
 Clotrimazole cream,clotrimazole cream,clotrimazole,clotrimazole
-Clotrimazole external solution,clotrimazole external solution,clotrimazole external solution,clotrimazole external solution
+Clotrimazole external solution,clotrimazole external solution,clotrimazole external,clotrimazole external
 Clotrimazole vaginal cream,clotrimazole vaginal cream,clotrimazole,clotrimazole
 Clotrimazole-Betamethasone,clotrimazole betamethasone,clotrimazole betamethasone,clotrimazole betamethasone
 Clotrimazole-Betamethasone 1-0.05 %,clotrimazole betamethasone   ,clotrimazole betamethasone,clotrimazole betamethasone
@@ -503,7 +503,7 @@ Collagenase,collagenase,collagenase,collagenase
 Combivir,combivir,combivir,combivir
 Compazine,compazine,compazine,compazine
 Complera,complera,complera,complex
-Concept DHA,concept dha,concept dha,concept dha
+Concept DHA,concept dha,concept,concept
 Coq10,coq,coq,coq
 Cosyntropin,cosyntropin,cosyntropin,cosyntropin
 Cough Syrup,cough syrup,cough syrup,cough syrup
@@ -586,7 +586,7 @@ Desogestrel-ethinyl estradiol,desogestrel ethinyl estradiol,desogestrel ethinyl 
 Desoximetasone,desoximetasone,desoximetasone,desoximetasone
 Dexalant,dexalant,dexalant,dexalant
 Dexamethasone,dexamethasone,dexamethasone,dexamethasone
-Dexamethasone ophthalmic suspension,dexamethasone ophthalmic suspension,dexamethasone ophthalmic suspension,dexamethasone ophthalmic suspension
+Dexamethasone ophthalmic suspension,dexamethasone ophthalmic suspension,dexamethasone,dexamethasone
 Dexchlorphen-Pseudoephedrine-Chlophedianol,dexchlorphen pseudoephedrine chlophedianol,dexchlorphen pseudoephedrine chlophedianol,hexachlorophene pseudoephedrine chlophedianol
 Dexilant,dexilant,dexilant,dexilant
 Dexlansoprazol,dexlansoprazol,dexlansoprazol,dexlansoprazole
@@ -858,7 +858,7 @@ Fish OIl,fish oil,fish oil,fish oil
 Fish Oil,fish oil,fish oil,fish oil
 Fish Oil-Cholecalciferol,fish oil cholecalciferol,fish oil cholecalciferol,fish oil cholecalciferol
 Fish oil,fish oil,fish oil,fish oil
-Fish oil with DHA,fish oil with dha,fish oil with dha,fish oil witch dha
+Fish oil with DHA,fish oil with dha,fish oil with,fish oil witch
 Flagyl,flagyl,flagyl,flagyl
 Flanax,flanax,flanax,flanax
 Flavoxate,flavoxate,flavoxate,flavoxate
@@ -872,7 +872,7 @@ Florent,florent,florent,florent
 Floridix,floridix,floridix,floridix
 Flovent,flovent,flovent,flovent
 Floxin,floxin,floxin,ofloxacin
-Floxin ear drops,floxin ear drops,floxin ear,ofloxacin pear
+Floxin ear drops,floxin ear drops,floxin,ofloxacin
 Flucanazole,flucanazole,flucanazole,fluconazole
 Fluconazol,fluconazol,fluconazol,fluconazole
 Fluconazole,fluconazole,fluconazole,fluconazole
@@ -1048,7 +1048,7 @@ Hydrocortizone,hydrocortizone,hydrocortizone,hydrocortisone
 Hydrocortizone cream,hydrocortizone cream,hydrocortizone,hydrocortisone
 Hydromorphone,hydromorphone,hydromorphone,hydromorphone
 Hydroprogesterone,hydroprogesterone,hydroprogesterone,hydroxyprogesterone
-Hydroquinine solution,hydroquinine solution,hydroquinine solution,hydroquinone solution
+Hydroquinine solution,hydroquinine solution,hydroquinine,hydroquinone
 Hydroxychloroquine,hydroxychloroquine,hydroxychloroquine,hydroxychloroquine
 Hydroxychloroquine Sulfate,hydroxychloroquine sulfate,hydroxychloroquine sulfate,hydroxychloroquine sulfate
 Hydroxycortisone,hydroxycortisone,hydroxycortisone,hydrocortisone
@@ -1621,10 +1621,10 @@ Nausea,nausea,nausea,nausea
 Nausea medication,nausea medication,nausea medication,nausea medication
 Nausea/Vomiting meds,nauseavomiting meds,nauseavomiting meds,nauseavomiting meds
 Neilmed sinus rinse,neilmed sinus rinse,neilmed sinus rinse,neilmed sinus rinse
-Neomycin-Polymyxin-HC,neomycin polymyxin hc,neomycin polymyxin hc,neomycin  polymyxin b
+Neomycin-Polymyxin-HC,neomycin polymyxin hc,neomycin polymyxin,neomycin  polymyxin b
 Neomycin-colistin-hydrocortisone,neomycin colistin hydrocortisone,neomycin colistin hydrocortisone,neomycin colistin hydrocortisone
 Nestabs,nestabs,nestabs,nestabs
-Nestabs DHA,nestabs dha,nestabs dha,nestabs dha
+Nestabs DHA,nestabs dha,nestabs,nestabs
 Neuro-K,neuro k,neuro k,neuro k
 Nevirapine,nevirapine,nevirapine,nevirapine
 Nexa Plus,nexa plus,nexa,nexa
@@ -1710,7 +1710,7 @@ OCP,ocp,ocp,ocp
 OCP's,ocps,ocps,ocps
 OCPs,ocps,ocps,ocps
 OMEGA 3,omega ,omega,omega
-OMEGA DHA,omega dha,omega dha,omega dha
+OMEGA DHA,omega dha,omega,omega
 OMEGA-3,omega ,omega,omega
 OMEGA-3 FATTY ACIDS-VITAMIN E,omega  fatty acids vitamin e,omega fatty acids vitamin e,omega fatty acid vitamin e
 OMEGA3,omega,omega,omega
@@ -1729,8 +1729,8 @@ Obesity,obesity,obesity,obesity
 Odefsey,odefsey,odefsey,odefsey
 Odensetron,odensetron,odensetron,ondansetron
 Ofloxacin,ofloxacin,ofloxacin,ofloxacin
-Ofloxacin ear drops,ofloxacin ear drops,ofloxacin ear,ofloxacin
-Ofloxacin ophthalmic solution,ofloxacin ophthalmic solution,ofloxacin ophthalmic solution,ofloxacin ophthalmic solution
+Ofloxacin ear drops,ofloxacin ear drops,ofloxacin,ofloxacin
+Ofloxacin ophthalmic solution,ofloxacin ophthalmic solution,ofloxacin,ofloxacin
 Olanzapine,olanzapine,olanzapine,olanzapine
 Olopatadine,olopatadine,olopatadine,olopatadine
 Omalizumab,omalizumab,omalizumab,omalizumab
@@ -1847,7 +1847,7 @@ PROCARDIA,procardia,procardia,procardia
 PROCORT,procort,procort,procort
 PROCTOCORT,proctocort,proctocort,proctocort
 PROCTOFOAM,proctofoam,proctofoam,proctofoam
-PROCTOFOAM-HC,proctofoam hc,proctofoam hc,proctofoam hc
+PROCTOFOAM-HC,proctofoam hc,proctofoam,proctofoam
 PROGESTERONE,progesterone,progesterone,progesterone
 PROMETHAZINE,promethazine,promethazine,promethazine
 PROPRANOLOL,propranolol,propranolol,propranolol
@@ -1869,7 +1869,7 @@ Paliperidone,paliperidone,paliperidone,paliperidone
 Papaya Enzymes,papaya enzymes,papaya enzymes,papaya enzyme
 Paracetamol,paracetamol,paracetamol,paracetamol
 Paroxetine,paroxetine,paroxetine,paroxetine
-Pataday Ophth Solution,pataday ophth solution,pataday ophth solution,pataday ophth solution
+Pataday Ophth Solution,pataday ophth solution,pataday ophth,pataday ophth
 Paxil,paxil,paxil,paxil
 Pcn,pcn,pcn,pcn
 Pcn [Penicillins],pcn penicillins,pcn penicillins,penicillin
@@ -1949,7 +1949,7 @@ Potassium chloride,potassium chloride,potassium chloride,potassium chloride
 Potassium cholride,potassium cholride,potassium cholride,potassium chloride
 Potassium citrate,potassium citrate,potassium citrate,potassium citrate
 Pramoxine,pramoxine,pramoxine,pramoxine
-Pramoxine -HC,pramoxine  hc,pramoxine hc,pramoxine
+Pramoxine -HC,pramoxine  hc,pramoxine,pramoxine
 Pramoxine HCl,pramoxine hcl,pramoxine,pramoxine
 Pramoxine-Calamine,pramoxine calamine,pramoxine calamine,pramoxine calamine
 Pravastatin,pravastatin,pravastatin,pravastatin
@@ -1993,9 +1993,9 @@ Prochlorperazine Maleate,prochlorperazine maleate,prochlorperazine maleate,chlor
 Procordia,procordia,procordia,procordia
 Procqrdiq,procqrdiq,procqrdiq,procqrdiq
 Proctofoam,proctofoam,proctofoam,proctofoam
-Proctofoam HC,proctofoam hc,proctofoam hc,proctofoam hc
+Proctofoam HC,proctofoam hc,proctofoam,proctofoam
 Proctosol,proctosol,proctosol,proctosol
-Proctosol-HC,proctosol hc,proctosol hc,proctosol hc
+Proctosol-HC,proctosol hc,proctosol,proctosol
 Progeserone miconized,progeserone miconized,progeserone miconized,progesterone miconized
 Progesteron,progesteron,progesteron,progesterone
 Progesteron inj,progesteron inj,progesteron,progesterone
@@ -2036,7 +2036,7 @@ Propranolol HCl,propranolol hcl,propranolol,propranolol
 Propylene Glycol,propylene glycol,propylene glycol,propylene glycol
 Propylthiouracil,propylthiouracil,propylthiouracil,propylthiouracil
 Protein shakes,protein shakes,protein shakes,protein shakes
-Protofoam-HC cream,protofoam hc cream,protofoam hc,protofoam hc
+Protofoam-HC cream,protofoam hc cream,protofoam,protofoam
 Proventil,proventil,proventil,proventil
 Proventil HFA,proventil hfa,proventil,proventil
 Proventil HFA PRN wheezing,proventil hfa prn wheezing,proventil hfa prn wheezing,proventil hfa prn wheezing
@@ -2300,7 +2300,7 @@ Tessalon Perles,tessalon perles,tessalon perles,tessalon perles
 Thiamine,thiamine,thiamine,thiamine
 Thyroid medication,thyroid medication,thyroid medication,thyroid medication
 Thyroid tablets,thyroid tablets,thyroid tablets,thyroid tablets
-Timolol ophthalmic solution,timolol ophthalmic solution,timolol ophthalmic solution,timolol ophthalmic solution
+Timolol ophthalmic solution,timolol ophthalmic solution,timolol,timolol
 Tinidazol,tinidazol,tinidazol,tinidazole
 Tinidazole,tinidazole,tinidazole,tinidazole
 Tioconazole,tioconazole,tioconazole,tioconazole
@@ -2338,7 +2338,7 @@ Triamcinolone Topical Cream,triamcinolone topical cream,triamcinolone,triamcinol
 Triamcinolone acetonide,triamcinolone acetonide,triamcinolone acetonide,triamcinolone acetonide
 Triamcinolone acetonide TOP OINT,triamcinolone acetonide top oint,triamcinolone acetonide top oint,triamcinolone acetonide
 Triamcinolone acetonide cream,triamcinolone acetonide cream,triamcinolone acetonide,triamcinolone acetonide
-Triamcinolone acetonide injectable suspension,triamcinolone acetonide injectable suspension,triamcinolone acetonide injectable suspension,triamcinolone acetonide injectable suspension
+Triamcinolone acetonide injectable suspension,triamcinolone acetonide injectable suspension,triamcinolone acetonide injectable,triamcinolone acetonide
 Triamcinolone cream,triamcinolone cream,triamcinolone,triamcinolone
 Triamcinolone topical cream,triamcinolone topical cream,triamcinolone,triamcinolone
 Triamcinolone topical cream 0.1%,triamcinolone topical cream ,triamcinolone,triamcinolone
@@ -2353,8 +2353,8 @@ Triprolidine-Pseudoephedrine,triprolidine pseudoephedrine,triprolidine pseudoeph
 Triumeq,triumeq,triumeq,triumeq
 Trolamine salicylate,trolamine salicylate,trolamine salicylate,trolamine salicylate
 Tropicamide,tropicamide,tropicamide,tropicamide
-Tropicamide eye solution,tropicamide eye solution,tropicamide eye solution,tropicamide eye solution
-Tropicamide ophthalmic solution,tropicamide ophthalmic solution,tropicamide ophthalmic solution,tropicamide ophthalmic solution
+Tropicamide eye solution,tropicamide eye solution,tropicamide eye,tropicamide
+Tropicamide ophthalmic solution,tropicamide ophthalmic solution,tropicamide,tropicamide
 Trulicity,trulicity,trulicity,trulicity
 Truvada,truvada,truvada,truvada
 Truvata,truvata,truvata,truvata
@@ -2710,9 +2710,9 @@ ampicillin-sulbactam,ampicillin sulbactam,ampicillin sulbactam,ampicillin sulbac
 ampicllin,ampicllin,ampicllin,ampicillin
 ampicollin trihydrate,ampicollin trihydrate,ampicollin trihydrate,amoxicillin trihydrate
 analpram,analpram,analpram,analpram
-analpram HC,analpram hc,analpram hc,analpram hc
+analpram HC,analpram hc,analpram,analpram
 analpram advanced,analpram advanced,analpram advanced,analpram advanced
-analpram hc,analpram hc,analpram hc,analpram hc
+analpram hc,analpram hc,analpram,analpram
 ancef,ancef,ancef,ancef
 anemia,anemia,anemia,anemia
 anhydrous petrolatum,anhydrous petrolatum,anhydrous petrolatum,anhydrous petrolatum
@@ -2729,10 +2729,10 @@ antimalarial,antimalarial,antimalarial,antimalarial
 antivert,antivert,antivert,antivert
 antoprazole PO EC Tab,antoprazole po ec tab,antoprazole po ec,pantoprazole po ec
 anusol,anusol,anusol,anusol
-anusol hc,anusol hc,anusol hc,anusol hc
+anusol hc,anusol hc,anusol,anusol
 anusol hcl cream,anusol hcl cream,anusol,anusol
-anusol-HC,anusol hc,anusol hc,anusol hc
-anusol-hc,anusol hc,anusol hc,anusol hc
+anusol-HC,anusol hc,anusol,anusol
+anusol-hc,anusol hc,anusol,anusol
 anxiety meds,anxiety meds,anxiety meds,anxiety meds
 unk name,unk name,unk name,unk name
 apirin,apirin,apirin,aspirin
@@ -2768,7 +2768,7 @@ atrovent HFA,atrovent hfa,atrovent,atrovent
 augementin,augementin,augementin,augementin
 augmemtin,augmemtin,augmemtin,augmemtin
 augmentin,augmentin,augmentin,augmentin
-augmentin ear drops,augmentin ear drops,augmentin ear,augmentin pear
+augmentin ear drops,augmentin ear drops,augmentin,augmentin
 augumentin,augumentin,augumentin,augumentin
 autgmentin,autgmentin,autgmentin,autgmentin
 aviane,aviane,aviane,aviane
@@ -2782,7 +2782,7 @@ azelaic acid,azelaic acid,azelaic acid,azelaic acid
 azelastine,azelastine,azelastine,azelastine
 azelastine hcl,azelastine hcl,azelastine,azelastine
 azelastine nasal spray,azelastine nasal spray,azelastine,azelastine
-azelastine ophthalmic solution,azelastine ophthalmic solution,azelastine ophthalmic solution,azelastine ophthalmic solution
+azelastine ophthalmic solution,azelastine ophthalmic solution,azelastine,azelastine
 azelastine-fluticasone,azelastine fluticasone,azelastine fluticasone,azelastine fluticasone
 azithromacyn,azithromacyn,azithromacyn,azithromycin
 azithromax,azithromax,azithromax,azithromax
@@ -3059,9 +3059,9 @@ cimetidine,cimetidine,cimetidine,cimetidine
 cipro,cipro,cipro,cipro
 ciprofloxacin,ciprofloxacin,ciprofloxacin,ciprofloxacin
 ciprofloxacin HCl,ciprofloxacin hcl,ciprofloxacin,ciprofloxacin
-ciprofloxacin ear drops,ciprofloxacin ear drops,ciprofloxacin ear,ciprofloxacin
+ciprofloxacin ear drops,ciprofloxacin ear drops,ciprofloxacin,ciprofloxacin
 ciprofloxacin hcl,ciprofloxacin hcl,ciprofloxacin,ciprofloxacin
-ciprofloxacin-dexamethasone ear drops,ciprofloxacin dexamethasone ear drops,ciprofloxacin dexamethasone ear,ciprofloxacin  dexamethasone
+ciprofloxacin-dexamethasone ear drops,ciprofloxacin dexamethasone ear drops,ciprofloxacin dexamethasone,ciprofloxacin  dexamethasone
 ciprofloxacin/dexamethasone OTIC SUSP,ciprofloxacindexamethasone otic susp,ciprofloxacindexamethasone otic susp,ciprofloxacin  dexamethasone
 ciprofloxacine,ciprofloxacine,ciprofloxacine,ciprofloxacin
 ciprofloxan,ciprofloxan,ciprofloxan,ciprofloxacin
@@ -3070,7 +3070,7 @@ citalopram,citalopram,citalopram,citalopram
 citalopram hydrobromide,citalopram hydrobromide,citalopram hydrobromide,citalopram hydrobromide
 citalpram,citalpram,citalpram,citalopram
 citranatal,citranatal,citranatal,citranatal
-citranatal assure,citranatal assure,citranatal assure,citranatal assure
+citranatal assure,citranatal assure,citranatal,citranatal
 citrazine,citrazine,citrazine,citrazine
 clararin,clararin,clararin,clararin
 claratin,claratin,claratin,claratin
@@ -3498,7 +3498,7 @@ fioricet with codeine,fioricet with codeine,fioricet with codeine,fioricet witch
 fioriciet,fioriciet,fioriciet,fioriciet
 fish containing products,fish containing products,fish containing products,fish containing products
 fish oil,fish oil,fish oil,fish oil
-fish oil DHA,fish oil dha,fish oil dha,fish oil dha
+fish oil DHA,fish oil dha,fish oil,fish oil
 fish oil oral,fish oil oral,fish oil,fish oil
 fish oil-cholecalciferol,fish oil cholecalciferol,fish oil cholecalciferol,fish oil cholecalciferol
 fkagyl,fkagyl,fkagyl,fkagyl
@@ -4303,12 +4303,12 @@ nausea meds,nausea meds,nausea meds,nausea meds
 nefidipine,nefidipine,nefidipine,nimodipine
 neomycin-bacitracn-polymyxin,neomycin bacitracn polymyxin,neomycin bacitracn polymyxin,neomycin bacitracin polymyxin
 neomycin-bacitracn-polymyxin topical,neomycin bacitracn polymyxin topical,neomycin bacitracn polymyxin,neomycin bacitracin polymyxin
-neomycin-polymyxin-HC,neomycin polymyxin hc,neomycin polymyxin hc,neomycin  polymyxin b
-neomycin-polymyxin-hc,neomycin polymyxin hc,neomycin polymyxin hc,neomycin  polymyxin b
+neomycin-polymyxin-HC,neomycin polymyxin hc,neomycin polymyxin,neomycin  polymyxin b
+neomycin-polymyxin-hc,neomycin polymyxin hc,neomycin polymyxin,neomycin  polymyxin b
 neomycin-polymyxin-hydrocortisone,neomycin polymyxin hydrocortisone,neomycin polymyxin hydrocortisone,neomycin polymyxin hydrocortisone
 neosporin,neosporin,neosporin,neosporin
 neostigmine,neostigmine,neostigmine,neostigmine
-nestab DHA,nestab dha,nestab dha,nestab dha
+nestab DHA,nestab dha,nestab,nestab
 nestabs,nestabs,nestabs,nestabs
 neurontin,neurontin,neurontin,neurontin
 nevirapine,nevirapine,nevirapine,nevirapine
@@ -4451,7 +4451,7 @@ olanzapine,olanzapine,olanzapine,olanzapine
 olmersatan,olmersatan,olmersatan,olmesartan
 olopatadine,olopatadine,olopatadine,olopatadine
 olopatadine HCl,olopatadine hcl,olopatadine,olopatadine
-olopatadine ophthalmic solution,olopatadine ophthalmic solution,olopatadine ophthalmic solution,olopatadine ophthalmic solution
+olopatadine ophthalmic solution,olopatadine ophthalmic solution,olopatadine,olopatadine
 olsetamivir,olsetamivir,olsetamivir,oseltamivir
 olsetamivir phosphate,olsetamivir phosphate,olsetamivir phosphate,oseltamivir phosphate
 omalizumab injection,omalizumab injection,omalizumab injection,omalizumab injection
@@ -4490,7 +4490,7 @@ one,one,one,one
 onexton,onexton,onexton,onexton
 ontansetron,ontansetron,ontansetron,ondansetron
 onv,onv,onv,onv
-ophthalmic solution,ophthalmic solution,ophthalmic solution,ophthalmic solution
+ophthalmic solution,ophthalmic solution,ophthalmic,ophthalmic
 optivar,optivar,optivar,optivar
 oracit,oracit,oracit,oracit
 orkambi,orkambi,orkambi,orkambi
@@ -4615,14 +4615,14 @@ pracardial,pracardial,pracardial,pracardial
 pramcort,pramcort,pramcort,pramcort
 pramoxine,pramoxine,pramoxine,pramoxine
 pramoxine HCl,pramoxine hcl,pramoxine,pramoxine
-pramoxine hc,pramoxine hc,pramoxine hc,pramoxine
-pramoxine-HC,pramoxine hc,pramoxine hc,pramoxine
+pramoxine hc,pramoxine hc,pramoxine,pramoxine
+pramoxine-HC,pramoxine hc,pramoxine,pramoxine
 pramoxine-hydrocortisone,pramoxine hydrocortisone,pramoxine hydrocortisone,pramoxine hydrochloride
 pranazole,pranazole,pranazole,pranazole
 prasozin,prasozin,prasozin,prasozin
 pravastatin,pravastatin,pravastatin,pravastatin
 prazosin,prazosin,prazosin,prazosin
-pre-natal DHA,pre natal dha,pre natal dha,pre natal dha
+pre-natal DHA,pre natal dha,pre natal,pre natal
 prebiotics,prebiotics,prebiotics,prebiotics
 predisone,predisone,predisone,prednisone
 predniSONE,prednisone,prednisone,prednisone
@@ -4679,8 +4679,8 @@ procaria,procaria,procaria,procaria
 prochlorperazine,prochlorperazine,prochlorperazine,prochlorperazine
 procort,procort,procort,procort
 proctofoam,proctofoam,proctofoam,proctofoam
-proctofoam hc,proctofoam hc,proctofoam hc,proctofoam hc
-proctofoam-HC,proctofoam hc,proctofoam hc,proctofoam hc
+proctofoam hc,proctofoam hc,proctofoam,proctofoam
+proctofoam-HC,proctofoam hc,proctofoam,proctofoam
 proemthazine,proemthazine,proemthazine,promethazine
 profesterone,profesterone,profesterone,progesterone
 progestarone,progestarone,progestarone,progesterone
@@ -5030,11 +5030,11 @@ trinate,trinate,trinate,etretinate
 trinessa,trinessa,trinessa,trinessa
 triple mix(Benadryl-lidocaine 2% Vis-Maalox,triple mixbenadryl lidocaine  vis maalox,triple mixbenadryl lidocaine vis maalox,triple mixbenadryl lidocaine vi maalox
 triple mix(Benadryl-lidocaine 2% Vis-Maalox+ 1:1:1),triple mixbenadryl lidocaine  vis maalox ,triple mixbenadryl lidocaine vis maalox,triple mixbenadryl lidocaine vi maalox
-triple mix(Benadryl-lidocaine 2% Vis-Maalox+ 1:1:1) oral suspension,triple mixbenadryl lidocaine  vis maalox  oral suspension,triple mixbenadryl lidocaine vis maalox oral suspension,triple mixbenadryl lidocaine vi maalox coral suspension
+triple mix(Benadryl-lidocaine 2% Vis-Maalox+ 1:1:1) oral suspension,triple mixbenadryl lidocaine  vis maalox  oral suspension,triple mixbenadryl lidocaine vis maalox,triple mixbenadryl lidocaine vi maalox
 triumeq,triumeq,triumeq,triumeq
 trmadol hcl,trmadol hcl,trmadol,tramadol
 tropicamide,tropicamide,tropicamide,tropicamide
-tropicamide ophthalmic solution,tropicamide ophthalmic solution,tropicamide ophthalmic solution,tropicamide ophthalmic solution
+tropicamide ophthalmic solution,tropicamide ophthalmic solution,tropicamide,tropicamide
 truvada,truvada,truvada,truvada
 tums,tums,tums,tums
 turmeric,turmeric,turmeric,turmeric

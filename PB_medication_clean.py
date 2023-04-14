@@ -73,7 +73,8 @@ def word_strip(series):
         ' buffered', ' nacl', ' ivpb', ' cq', ' gram', ' epidural infursion', ' infus', ' suppository',
         ' oral', ' dm', ' hfa', ' x', ' iv', ' tablet', ' hci', ' topical', ' hcl', ' w', 
         ' lotion', ' pack', ' nasal',' drops',' strength',' pf',' inj',' inhaler', ' inf',
-        ' bid', 'regular', ' nasal', ' spray', ' micronized', ' injections', ]
+        ' bid', 'regular', ' nasal', ' spray', ' micronized', ' injections', ' hc',
+        ' solution', ' suspension', ' otic', ' ear', ' assure', ' dha']
     while True: #strip iteratively in case multiple/stacked instances.  
         prev_series = series
         series = strip_terms(series, things_to_strip)
